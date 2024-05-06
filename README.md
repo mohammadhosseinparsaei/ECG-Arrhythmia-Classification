@@ -4,10 +4,11 @@
 This project aims to differentiate various types of arrhythmias from normal heart rhythms using machine learning techniques, particularly **XGBoost**. The dataset used for training the model is `MIT-BIH Arrhythmia Database.csv`, which contains a collection of electrocardiogram (ECG) signals labeled with different arrhythmia types.
 ### Dataset Structure
 The dataset consists of ECG signals with corresponding labels indicating the presence of arrhythmia or normal heart rhythm. The following arrhythmia types are considered as anomalies:
-•	VEB
-•	SVEB
-•	F
-•	Q
+-	VEB
+-	SVEB
+-	F
+-	Q
+
 These anomalies are labeled as 'arrhythmia', while normal heart rhythms (N) are labeled as 'normal'.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset/data).
