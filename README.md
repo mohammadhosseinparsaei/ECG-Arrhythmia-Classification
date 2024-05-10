@@ -12,6 +12,10 @@ The dataset consists of ECG signals with corresponding labels indicating the pre
 These anomalies are labeled as 'arrhythmia', while normal heart rhythms (N) are labeled as 'normal'.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset/data).
+
+- [Original paper](http://ecg.mit.edu/george/publications/mitdb-embs-2001.pdf)
+- [Paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003028635-11/harnessing-artificial-intelligence-secure-ecg-analytics-edge-cardiac-arrhythmia-classification-sadman-sakib-mostafa-fouda-zubair-md-fadlullah) about the feature extraction phase from the original dataset
+
 ### Tools and Libraries Used
 - Jupyter
 - numpy 1.24.3
