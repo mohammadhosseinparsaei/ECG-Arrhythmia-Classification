@@ -23,10 +23,14 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - scikit-learn 1.3.0
 - xgboost 2.0.3
 - matplotlib 3.8.4
+
 ### Correlation Heatmap of All Features
-![Heatmap](https://github.com/mohammadhosseinparsaei/ECG-Arrhythmia-Classification/blob/main/correlation_heatmap.png)
+<img src="https://github.com/mohammadhosseinparsaei/ECG-Arrhythmia-Classification/blob/main/correlation_heatmap.png" alt="Heatmap" width="500"/>
+
 ### Model Performance
+
 #### Confusion Matrix
-![Confusion Matrix](https://github.com/mohammadhosseinparsaei/ECG-Arrhythmia-Classification/blob/main/confusion%20matrix.png)
+<img src="https://github.com/mohammadhosseinparsaei/ECG-Arrhythmia-Classification/blob/main/confusion%20matrix.png" alt="Confusion Matrix" width="500"/>
+
 #### ROC Curve
-![ROC Curve](https://github.com/mohammadhosseinparsaei/ECG-Arrhythmia-Classification/blob/main/ROC_curve.png)
+<img src="https://github.com/mohammadhosseinparsaei/ECG-Arrhythmia-Classification/blob/main/ROC_curve.png" alt="ROC Curve" width="500"/>
